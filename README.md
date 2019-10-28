@@ -1,4 +1,13 @@
-# marcky-test
+# TestVueApp
+
+I've created multiple test Vue apps over the past few years, and I figured I should keep one around so I can remember how it works.
+
+This app uses:
+1. VueJS - JS framework
+2. Vuex - Global store
+3. Vue Routing - for path routing an navigation. 
+
+... This has been derived from the Vue CLI 3 setup. 
 
 ## Project setup
 ```
