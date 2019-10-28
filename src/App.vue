@@ -23,7 +23,6 @@ import VueRouter from 'vue-router'
 
 //This About is an example of how to lazy load a route.
 const About = () => import( './views/About.vue')
-
 import Home from './views/Home.vue'
 import Work from './views/Work.vue'
 
